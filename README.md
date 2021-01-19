@@ -13,10 +13,12 @@ No están dentro de funciones o bloques, por lo tanto se puede acceder a ellas d
 - La doble asignación de una variable también es una mala práctica.
 
 ### Local Scope: 
-Se refiere a la variable o funcion que esta dentro de un bloque o funcion especifica. Solo se pueden acceder a ellas (ejecutar o llamar) dentro del entrono en donde conviven.
+Se refiere a la variable o función que esta dentro de un bloque o función especifica. Solo se pueden acceder a ellas (ejecutar o llamar) dentro del entorno en donde conviven.
 
 ### Ámbito léxico: 
-Se refiere a que una funcion puede acceder a una funcion o variable fuera de ella.Cada nivel interno puede acceder a sus niveles externos hasta poder alcanzarlas.
+Se refiere a que una función puede acceder a una función o variable fuera de ella. Cada nivel interno puede acceder a sus niveles externos hasta poder alcanzarlas.
+
+**Siempre es recomendable utilizar let y const en vez de var.**
 
 ![alt text](https://static.platzi.com/media/user_upload/Capture-7a10c51f-5616-47c4-9519-470898d82cea.jpg)
 
