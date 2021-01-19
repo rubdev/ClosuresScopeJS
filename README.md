@@ -22,3 +22,5 @@ Se refiere a que una función puede acceder a una función o variable fuera de e
 
 ![alt text](https://static.platzi.com/media/user_upload/Capture-7a10c51f-5616-47c4-9519-470898d82cea.jpg)
 
+### Closure
+La definición sería algo como la combinación de una función y el ámbito léxico en el que ha sido declarada una función, es decir, el closure recuerda el ámbito en el que ha sido creado.
