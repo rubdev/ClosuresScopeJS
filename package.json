@@ -1,0 +1,19 @@
+{
+  "name": "closuresscopejs",
+  "version": "1.0.0",
+  "description": "Curso sobre los closures y el scope en Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubdev/ClosuresScopeJS.git"
+  },
+  "author": "Rubén Segura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rubdev/ClosuresScopeJS/issues"
+  },
+  "homepage": "https://github.com/rubdev/ClosuresScopeJS#readme"
+}
